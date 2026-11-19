@@ -1,0 +1,11 @@
+
+{
+  "name": "olamail",
+  "version": "1.0.0",
+  "description": "Secure business email assistant for authorized OlaMail mailboxes. Read messages, create drafts and send only with permission.",
+  "author": {
+    "name": "MIA Co., Ltd.",
+    "url": "https://olacheap.com"
+  },
+  "homepage": "https://olacheap.com/hosting/email"
+}
