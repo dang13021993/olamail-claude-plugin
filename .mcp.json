@@ -1,0 +1,9 @@
+
+{
+  "mcpServers": {
+    "olamail": {
+      "type": "http",
+      "url": "https://olacheap.com/api/mcp/mail"
+    }
+  }
+}
